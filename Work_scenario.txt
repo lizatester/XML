@@ -1,0 +1,33 @@
+Напротив каждого действия - напишите команду в GitBash
+1. Клонировать репозиторий XML на локальный компьютер.
+git clone https://github.com/NameOfYourGitHub/NameOfRepository.git()
+2. Внутри локального XML создать файл “new.json”.
+cd/c/git/NameOfRepository
+touch new.xml
+3. Добавить файл под гит.
+git add new.xml
+4. Закоммитить файл.
+git commit -m "New file new.xml"
+5. Отправить файл на внешний GitHub репозиторий.
+git push
+6. Отредактировать содержание файла “new.xml” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате json.
+vim new.xml
+[i]
+"info"
+[Esc]
+:qw
+7. Отправить изменения на внешний репозиторий.
+git commit -am "File has changed"
+git push
+или
+git add file.xml
+git commit -m "File has changed"
+git push
+8. Сделать коммит в одну строку
+git add file.xml | git commit -m "New file"
+9. Отправить сразу 2 файла на внешний репозиторий.
+git add preferences.xml and sklls.xml
+git commit -m "New files preferences.xml and sklls.xml"
+git push
+10. Синхронизировать внешний и локальный репозиторий XML
+git pull
