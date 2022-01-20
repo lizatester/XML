@@ -1,1 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Bug_report>
+<Title>The page shows a cup in a shoes search</Title>
+<Steps_to_reproduce number="1">Open site *link on site* </Steps_to_reproduce>
+<Steps_to_reproduce number="2">Use the search bar to look for "shoes" </Steps_to_reproduce>
+<Steps_to_reproduce number="3">Roll down the navigation bar until the "MoonMiracle Cup" product </Steps_to_reproduce>
+<Expected_result>Only shoes apear on the products shown</Expected_result>
+<Actual_result>A cup apears on the search results</Actual_result>
+</Bug_report>
+
 
