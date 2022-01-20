@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="1">Basic theory of testing</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="2">Client-server model</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="3">HTTP Request Methods </Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="4">HTTP server response codes</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="5">Structures of HTTP requests and responses</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="6"> JSON, XML</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="7">API testing via Postman </Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="8">Removing and reading logs from an external server</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="9"> Charles and Fiddler</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="10">Dev Tools of web browsers </Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="11"> VPN</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="12">Mobile testing</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="13">Feature of iOS, Android, guidelines</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="14">Build iOS applications on Xcode</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="15">Build Android applications on Android Studio</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="16">ADB </Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="17">Setting up proxy and vpn on iOS and Android</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="18">Interception of mobile traffic through Charles and Fiddler on iOS and Android</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="19">Command line Linux </Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="20">Basics of bash scripting, automation of routine tasks on the server</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="21">Access to remote servers</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="22">Basics of SQL</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="23">Postgres database </Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="24"> Redis </Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="25">Jmeter</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="26">Scrum development methodology</Skills_Ill_learn_during_testing_course>
+<Skills_Ill_learn_during_testing_course number="27">Python</Skills_Ill_learn_during_testing_course>
+</Skills_Ill_learn_during_testing_course>
